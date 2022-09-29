@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ikbaker
-- 👀 I’m interested in progressing my understanding of hirable computer science skills, through project based learning.
-- 🌱 I’m currently an undergraduate student at Umass Amherst pursuing a BS in Computer Science.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer science, mathematics, weightlifting, skiing, karate, gaming, reading, food in general, and more!
+- 🌱 I’m currently an undergraduate student at Umass Amherst pursuing a double major in Computer Science and Mathematics.
 - 📫 How to reach me isaiahkai@icloud.com
 
 <!---
