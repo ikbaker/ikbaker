@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikbaker
 - 👀 I’m interested in computer science, mathematics, weightlifting, skiing, karate, gaming, reading, food in general, and more!
-- 🌱 I’m currently an undergraduate student at Umass Amherst pursuing a double major in Computer Science and Mathematics.
+- 🌱 I’m currently a Bay State Scholar at Umass Amherst pursuing a Masters in Computer Science.
 - 📫 How to reach me isaiahkai@icloud.com
 
 <!---
